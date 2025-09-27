@@ -1,4 +1,4 @@
-package org.aldoustv.first_lab.dto;
+package org.aldoustv.first_lab.dto.response;
 
 public class TestResponse {
     private String message;

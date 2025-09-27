@@ -1,7 +1,7 @@
 package org.aldoustv.first_lab.controller;
 
-import org.aldoustv.first_lab.dto.TestRequest;
-import org.aldoustv.first_lab.dto.TestResponse;
+import org.aldoustv.first_lab.dto.request.TestRequest;
+import org.aldoustv.first_lab.dto.response.TestResponse;
 import org.aldoustv.first_lab.service.TestService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

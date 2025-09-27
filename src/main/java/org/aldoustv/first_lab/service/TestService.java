@@ -1,12 +1,11 @@
 package org.aldoustv.first_lab.service;
 
-import org.aldoustv.first_lab.dto.TestRequest;
-import org.aldoustv.first_lab.dto.TestResponse;
+import org.aldoustv.first_lab.dto.request.TestRequest;
+import org.aldoustv.first_lab.dto.response.TestResponse;
 import org.aldoustv.first_lab.entity.Test;
 import org.aldoustv.first_lab.repository.TestRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import org.springframework.web.bind.annotation.PatchMapping;
 
 import java.util.Random;
 

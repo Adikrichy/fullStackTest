@@ -1,4 +1,4 @@
-package org.aldoustv.first_lab.dto;
+package org.aldoustv.first_lab.dto.request;
 
 public class TestRequest {
     private Long id;
